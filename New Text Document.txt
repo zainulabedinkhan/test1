@@ -1,0 +1,9 @@
+<html><head></head>
+<body>
+<script type="text/javascript">
+var message="my name is khan";
+var c=message.length;
+document.write(x);
+</script>
+</body>
+</html>
