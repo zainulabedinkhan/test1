@@ -4,6 +4,7 @@
 var message="my name is khan";
 var c=message.length;
 document.write(x);
+nbmnbmx,.bnvmnvb.,mxnvb,xmcvnb,mxnvb,xmv
 </script>
 </body>
 </html>
